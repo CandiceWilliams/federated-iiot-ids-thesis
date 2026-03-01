@@ -1,0 +1,9 @@
+# Federated IIoT IDS — Requirements
+# Python 3.9+
+
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0          # for plotting convergence curves
+seaborn>=0.12.0            # for heatmaps (confusion matrices, per-class F1)
