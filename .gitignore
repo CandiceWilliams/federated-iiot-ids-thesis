@@ -1,8 +1,9 @@
 # Virtual environment
 thesisenv/
 
-# Data (optional — add if too large or sensitive)
+# Data
 data/raw/
+data/processed/
 
 # Python
 __pycache__/
