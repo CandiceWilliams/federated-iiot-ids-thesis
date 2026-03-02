@@ -1,0 +1,11 @@
+# Virtual environment
+thesisenv/
+
+# Data (optional — add if too large or sensitive)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
