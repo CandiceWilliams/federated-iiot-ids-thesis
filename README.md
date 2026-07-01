@@ -55,7 +55,7 @@ How do non-IID data distributions, communication parameters, and partial client 
 
 ## Tech Stack
 
-Python, PyTorch, NumPy, pandas, scikit-learn (preprocessing/scaling), Jypter
+Python, PyTorch, NumPy, pandas, scikit-learn (preprocessing/scaling), Jyputer
 
 ## Limitations & Future Work
 
