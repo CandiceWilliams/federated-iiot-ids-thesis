@@ -2,8 +2,15 @@
 
 **Performance analysis of FedAvg on the CIC IIoT 2025 dataset under realistic non-IID conditions, communication constraints, and partial client participation.**
 
-Undergraduate Thesis (CS4490Z) — Department of Computer Science, Western University
-Author: Candice Williams | Supervisor: Prof. Zubair Fadlullah | March 2026
+> Undergraduate Thesis (CS4490Z) — Department of Computer Science, Western University
+> Author: Candice Williams | Supervisor: Prof. Zubair Fadlullah | March 2026
+
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://www.python.org/)
 
 ---
 
